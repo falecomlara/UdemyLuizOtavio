@@ -1,2 +1,2 @@
 # UdemyLuizOtavio
- Aulas de Python com o Luiz Otávio Miranda
+ Aulas Curso Python com Luiz Otavio Miranda
